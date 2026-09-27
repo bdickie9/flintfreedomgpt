@@ -1,3 +1,5 @@
+> **Fork notice:** this repository is a fork of https://github.com/ohmplatform/FreedomGPT by ohmplatform, licensed under GPL-3.0. The original code remains the property of its authors. See [FORK_NOTICE.md](FORK_NOTICE.md).
+
 # FreedomGPT
 This is the offical repository for the FreedomGPT application. It is built using [Electron](https://www.electronjs.org/) and [React](https://reactjs.org/) and allows users to run LLM models on their local machine.
 
